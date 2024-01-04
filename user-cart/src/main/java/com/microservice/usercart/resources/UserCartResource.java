@@ -31,7 +31,7 @@ public class UserCartResource {
         return shoesList.getUserShoesList().stream()
                 .map(shoes -> {
                     //for each shoe, call shoes info service and get details
-                    Shoes shoesInCart = restTemplate.getForObject("http://localhost:8082/shoes/" + shoes.getName(), Shoes.class);
+                    Shoes shoesInCart = restTemplate.getForObject("http://localhost:8082/shoes/" + shoes.getId(), Shoes.class);
 
                     // Check for null before accessing the properties
                     if (shoesInCart != null) {
