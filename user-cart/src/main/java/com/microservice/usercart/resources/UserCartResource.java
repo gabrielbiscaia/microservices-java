@@ -26,6 +26,7 @@ public class UserCartResource {
         //return a list of shoes of a user
         UserShoesList shoesList = restTemplate.getForObject("http://localhost:8082/shoes/users/" + userId, UserShoesList.class);
         System.out.println(shoesList);
+
         assert shoesList != null;
         return shoesList.getUserShoesList().stream()
                 .map(shoes -> {
