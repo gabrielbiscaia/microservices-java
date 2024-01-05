@@ -1,4 +1,4 @@
-/home/gabriel/codigos/java/work01SD_118928/shoes-info/src/main/java/com/microservice/shoesinfo/models/UserShoesList.java
-/home/gabriel/codigos/java/work01SD_118928/shoes-info/src/main/java/com/microservice/shoesinfo/resources/ShoesResource.java
-/home/gabriel/codigos/java/work01SD_118928/shoes-info/src/main/java/com/microservice/shoesinfo/ShoesInfoApplication.java
-/home/gabriel/codigos/java/work01SD_118928/shoes-info/src/main/java/com/microservice/shoesinfo/models/Shoes.java
+/home/gabriel/codigos/java/microservices-java/shoes-info/src/main/java/com/microservice/shoesinfo/resources/ShoesResource.java
+/home/gabriel/codigos/java/microservices-java/shoes-info/src/main/java/com/microservice/shoesinfo/ShoesInfoApplication.java
+/home/gabriel/codigos/java/microservices-java/shoes-info/src/main/java/com/microservice/shoesinfo/models/Shoes.java
+/home/gabriel/codigos/java/microservices-java/shoes-info/src/main/java/com/microservice/shoesinfo/models/UserShoesList.java
