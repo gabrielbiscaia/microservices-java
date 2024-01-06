@@ -1,1 +1,3 @@
-com/microservice/shoesinfo/models/UserShoesList.class
+com/microservice/shoesinfo/services/DataInitializer.class
+com/microservice/shoesinfo/controllers/ShoesController.class
+com/microservice/shoesinfo/controllers/ShoesRepository.class
