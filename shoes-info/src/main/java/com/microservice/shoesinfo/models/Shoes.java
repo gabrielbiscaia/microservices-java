@@ -16,8 +16,8 @@ public class Shoes {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private String id;
-    private String name;
-    private String description;
+    Long id;
+    String name;
+    String description;
 
 }
