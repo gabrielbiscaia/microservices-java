@@ -1,2 +1,3 @@
-com/microservice/usercart/models/UserShoesList.class
+com/microservice/usercart/models/UserCart.class
+com/microservice/usercart/controllers/CartController.class
 com/microservice/usercart/models/Shoes.class

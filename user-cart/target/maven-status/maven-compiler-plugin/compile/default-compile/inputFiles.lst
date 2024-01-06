@@ -1,5 +1,4 @@
-/home/gabriel/codigos/java/work01SD_118928/user-cart/src/main/java/com/microservice/usercart/UserCartApplication.java
-/home/gabriel/codigos/java/work01SD_118928/user-cart/src/main/java/com/microservice/usercart/models/UserShoesList.java
-/home/gabriel/codigos/java/work01SD_118928/user-cart/src/main/java/com/microservice/usercart/models/Shoes.java
-/home/gabriel/codigos/java/work01SD_118928/user-cart/src/main/java/com/microservice/usercart/resources/UserCartResource.java
-/home/gabriel/codigos/java/work01SD_118928/user-cart/src/main/java/com/microservice/usercart/models/CartItem.java
+/home/gabriel/codigos/java/microservices-java/user-cart/src/main/java/com/microservice/usercart/controllers/CartController.java
+/home/gabriel/codigos/java/microservices-java/user-cart/src/main/java/com/microservice/usercart/models/UserCart.java
+/home/gabriel/codigos/java/microservices-java/user-cart/src/main/java/com/microservice/usercart/UserCartApplication.java
+/home/gabriel/codigos/java/microservices-java/user-cart/src/main/java/com/microservice/usercart/models/Shoes.java
