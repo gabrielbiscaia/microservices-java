@@ -19,7 +19,7 @@ public class ShoesController {
 
     @GetMapping("/shoes/{id}")
     public Shoes getShoesById(@PathVariable Long id){
-        return shoesRepository.getReferenceById(id);
+        return shoesRepository.findById(id).get();
     }
 
     @PostMapping("/shoes")
